@@ -70,7 +70,7 @@ footage. High-frequency suppression (`hf_score`) is the number to tune against.
 | `plots.py`, `runner.py` | notebook helpers |
 | `run_camera.py` | live capture + performance reporting |
 | `record_clips.py` | raw recording from CSI cameras |
-| `keel.ipynb` | full run plus the appendix of experiments |
+| `realtime_stabilization.ipynb` | full run plus the appendix of experiments |
 
 ## Jetson
 
