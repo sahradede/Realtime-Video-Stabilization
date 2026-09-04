@@ -1,4 +1,4 @@
-# Keel
+# Realtime-Video-Stabilization
 
 Causal video stabilization — no look-ahead, no added latency. Built for live
 streaming on a Jetson Orin Nano, with a synchronized stereo pair as the next step.
