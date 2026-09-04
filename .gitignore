@@ -1,0 +1,11 @@
+samples/
+out/
+baseline/
+probe/
+hf/
+quad/
+*.mp4
+*.avi
+*.mkv
+*.npy
+__pycache__/
